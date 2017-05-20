@@ -187,7 +187,7 @@
 	/* Set your background with this */
 
 		background-image: url("images/back2.jpg");
-        background-size: cover;
+        background-size:100% auto;
 		height: 100%;
 		left: 0;
 		opacity: 1;
