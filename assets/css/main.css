@@ -267,7 +267,7 @@
 	}
 
 /* Overlay */
-/*
+
 	@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
@@ -314,10 +314,10 @@
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
+        background-color:rgba(0, 0, 0, 0.5);
 		height: 100%;
 		left: 0;
 		opacity: 0;
@@ -325,7 +325,7 @@
 		top: 0;
 		width: 100%;
 	}
-*/
+
 /* Main */
 
 	#main {
