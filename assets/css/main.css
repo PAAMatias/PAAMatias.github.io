@@ -193,6 +193,8 @@
 		opacity: 1;
 		position: fixed;
 		top: 0;
+        min-width: 100%;
+        min-height: 100%;
 	}
 
 	@-moz-keyframes bg {
